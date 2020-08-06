@@ -673,11 +673,10 @@ cite {
 .team-member { 	
     display: block;
     margin: 0 auto 50px;
-    max-width: 400px;
+    max-width: 350px;
     padding: 0;
     width: 100%;
 	vertical-align: top;
-	padding-top: 20px;
 }
 
 .team-member-holder {
@@ -713,10 +712,6 @@ cite {
 	display: block;
 	position: relative;
 	display: block;
-}
-.grid{
-	height: 260px;
-	padding: 20px;
 }
 
 .team-member-image img {
